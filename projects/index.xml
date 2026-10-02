@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Portfolio on Tracy&#39;s Blog | 享寫</title>
+		<link>https://druidtracy.github.io/projects/</link>
+		<description>Recent content in Portfolio on Tracy&#39;s Blog | 享寫</description>
+		<generator>Hugo</generator>
+		<language>zh-tw</language>
+		
+		
+		
+			<copyright>&amp;copy; 2026 Tracy&#39;s Blog</copyright>
+		
+		
+			<lastBuildDate></lastBuildDate>
+		
+			<atom:link href="https://druidtracy.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>

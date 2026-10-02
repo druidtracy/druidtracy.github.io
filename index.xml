@@ -1,31 +1,201 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tracy&#39;s Blog | 享寫 </title>
+		<title>Tracy&#39; Blog | 享寫 on Tracy&#39;s Blog | 享寫</title>
 		<link>https://druidtracy.github.io/</link>
-		<description>Recent content on Tracy&#39;s Blog | 享寫 </description>
+		<description>Recent content in Tracy&#39; Blog | 享寫 on Tracy&#39;s Blog | 享寫</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
 		
 		
 		
+			<copyright>&amp;copy; 2026 Tracy&#39;s Blog</copyright>
 		
-			<lastBuildDate>Mon, 28 Sep 2026 01:39:56 +0800</lastBuildDate>
+		
+			<lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://druidtracy.github.io/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>離職之後，我終於看懂了自己的思考模式</title>
-				<link>https://druidtracy.github.io/blog/small_talk_2/</link>
-				<pubDate>Mon, 28 Sep 2026 01:39:56 +0800</pubDate>
-				<guid>https://druidtracy.github.io/blog/small_talk_2/</guid>
-				<description>&lt;h5 id=&#34;我一直以為自己只是太認真&#34;&gt;我一直以為自己只是太認真&lt;/h5&gt;&#xA;&lt;p&gt;很長一段時間，我把自己的狀態理解成「太認真」。&lt;/p&gt;</description>
+				<title>2026-10-02 維護筆記：Front Matter, favicon, logo</title>
+				<link>https://druidtracy.github.io/about_my_website/websitemaintain_20261002/</link>
+				<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/about_my_website/websitemaintain_20261002/</guid>
+				<description>現在可以在網站上看到悠虎的Q版頭像了！</description>
 			</item>
 			<item>
-				<title>Welcome to my Blog!</title>
-				<link>https://druidtracy.github.io/blog/welcome_to_my_blog/</link>
-				<pubDate>Sun, 27 Sep 2026 23:26:47 +0800</pubDate>
-				<guid>https://druidtracy.github.io/blog/welcome_to_my_blog/</guid>
-				<description>&lt;p&gt;Hello World&lt;/p&gt;&#xA;&lt;p&gt;我是Tracy&lt;/p&gt;&#xA;&lt;h1 id=&#34;一級標題&#34;&gt;一級標題&lt;/h1&gt;&#xA;&lt;h2 id=&#34;二級標題&#34;&gt;二級標題&lt;/h2&gt;&#xA;&lt;h6 id=&#34;六級標題&#34;&gt;六級標題&lt;/h6&gt;&#xA;&lt;p&gt;我是&lt;strong&gt;Tracy&lt;/strong&gt;, &lt;em&gt;&lt;strong&gt;這裡&lt;/strong&gt;&lt;/em&gt; 紀錄我的生活&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Tracy&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Yohu&#xA;&lt;ol&gt;&#xA;&lt;li&gt;is a cat&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;CH&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Hello&lt;/p&gt;</description>
+				<title>Maintainance To-Do</title>
+				<link>https://druidtracy.github.io/about_my_website/websitemaintain_todo/</link>
+				<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/about_my_website/websitemaintain_todo/</guid>
+				<description>這裡放一些待辦事項，一樣一樣解決掉吧！</description>
+			</item>
+			<item>
+				<title>Resume</title>
+				<link>https://druidtracy.github.io/resume_en/</link>
+				<pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/resume_en/</guid>
+				<description>English Resume</description>
+			</item>
+			<item>
+				<title>學琴這兩年來教會我的事</title>
+				<link>https://druidtracy.github.io/blogs/learn_from_piano/learn_from_piano/</link>
+				<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/blogs/learn_from_piano/learn_from_piano/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>離職之後，我終於看懂了自己的思考模式</title>
+				<link>https://druidtracy.github.io/blogs/realize_sth_after_quit/realize_sth_after_quit/</link>
+				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/blogs/realize_sth_after_quit/realize_sth_after_quit/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Upgrading from Congo 1.x</title>
+				<link>https://druidtracy.github.io/docs/version-2/upgrade/</link>
+				<pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/docs/version-2/upgrade/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Installation</title>
+				<link>https://druidtracy.github.io/docs/installation/</link>
+				<pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/docs/installation/</guid>
+				<description>Learn how to get up and running using Hugo and Congo from a completely blank state. It&amp;rsquo;s the best place to start if you&amp;rsquo;re a new user.</description>
+			</item>
+			<item>
+				<title>Getting Started</title>
+				<link>https://druidtracy.github.io/docs/getting-started/</link>
+				<pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/docs/getting-started/</guid>
+				<description>This section assumes you have already installed the Congo theme and are ready to start with basic configuration tasks like selecting a colour scheme, menu and content structure.</description>
+			</item>
+			<item>
+				<title>Configuration</title>
+				<link>https://druidtracy.github.io/docs/configuration/</link>
+				<pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/docs/configuration/</guid>
+				<description>Discover all the site, language and theme configurations that are available in Congo and how they can be used to customise your project.</description>
+			</item>
+			<item>
+				<title>Icons</title>
+				<link>https://druidtracy.github.io/samples/icons/</link>
+				<pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/samples/icons/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Homepage Layout</title>
+				<link>https://druidtracy.github.io/docs/homepage-layout/</link>
+				<pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/docs/homepage-layout/</guid>
+				<description>Congo provides a fully flexible homepage layout with built-in templates and the ability to provide your own.</description>
+			</item>
+			<item>
+				<title>Front Matter</title>
+				<link>https://druidtracy.github.io/docs/front-matter/</link>
+				<pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/docs/front-matter/</guid>
+				<description>While supporting most Hugo defaults, Congo adds a number of front matter parameters to customise the presentation of individual articles.</description>
+			</item>
+			<item>
+				<title>Shortcodes</title>
+				<link>https://druidtracy.github.io/docs/shortcodes/</link>
+				<pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/docs/shortcodes/</guid>
+				<description>Congo includes several shortcodes for adding rich content to articles including images, charts, diagrams, buttons and more.</description>
+			</item>
+			<item>
+				<title>Partials</title>
+				<link>https://druidtracy.github.io/docs/partials/</link>
+				<pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/docs/partials/</guid>
+				<description>Partials are used to add special functionality to the theme including analytics, comments, favicons, custom scripts and more.</description>
+			</item>
+			<item>
+				<title>Content Examples</title>
+				<link>https://druidtracy.github.io/docs/content-examples/</link>
+				<pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/docs/content-examples/</guid>
+				<description>It&amp;rsquo;s time to bring everything together with some examples that demonstrate how content should be created and structured.</description>
+			</item>
+			<item>
+				<title>Advanced Customisation</title>
+				<link>https://druidtracy.github.io/docs/advanced-customisation/</link>
+				<pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/docs/advanced-customisation/</guid>
+				<description>Congo supports advanced customisations that include modifying the underlying Tailwind configuration, building the theme manually and providing custom CSS.</description>
+			</item>
+			<item>
+				<title>Hosting &amp; Deployment</title>
+				<link>https://druidtracy.github.io/docs/hosting-deployment/</link>
+				<pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/docs/hosting-deployment/</guid>
+				<description>Congo is designed to be flexible in almost any deployment scenario. Learn more about how to deploy your project to some common hosting platforms.</description>
+			</item>
+			<item>
+				<title>Markdown</title>
+				<link>https://druidtracy.github.io/samples/markdown/</link>
+				<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/samples/markdown/</guid>
+				<description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Congo, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Rich Content</title>
+				<link>https://druidtracy.github.io/samples/rich-content/</link>
+				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/samples/rich-content/</guid>
+				<description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
+			</item>
+			<item>
+				<title>Mathematical notation</title>
+				<link>https://druidtracy.github.io/samples/mathematical-notation/</link>
+				<pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/samples/mathematical-notation/</guid>
+				<description>&lt;p&gt;KaTeX can be used to render mathematical notation within articles.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Charts</title>
+				<link>https://druidtracy.github.io/samples/charts/</link>
+				<pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/samples/charts/</guid>
+				<description>Congo includes Chart.js for powerful charts and data visualisations.</description>
+			</item>
+			<item>
+				<title>Diagrams and Flowcharts</title>
+				<link>https://druidtracy.github.io/samples/diagrams-flowcharts/</link>
+				<pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/samples/diagrams-flowcharts/</guid>
+				<description>It&amp;rsquo;s easy to add diagrams and flowcharts to articles using Mermaid.</description>
+			</item>
+			<item>
+				<title>Emoji :parachute:</title>
+				<link>https://druidtracy.github.io/samples/emoji/</link>
+				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/samples/emoji/</guid>
+				<description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
+			</item>
+			<item>
+				<title>advanced</title>
+				<link>https://druidtracy.github.io/tags/advanced/_index.ja/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/tags/advanced/_index.ja/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>advanced</title>
+				<link>https://druidtracy.github.io/tags/advanced/_index.zh-cn/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/tags/advanced/_index.zh-cn/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Avanzada</title>
+				<link>https://druidtracy.github.io/tags/advanced/_index.es/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/tags/advanced/_index.es/</guid>
+				<description></description>
 			</item>
 	</channel>
 </rss>

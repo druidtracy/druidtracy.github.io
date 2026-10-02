@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>advanced on Tracy&#39;s Blog | 享寫</title>
+		<link>http://localhost:1313/projects/advanced/</link>
+		<description>Recent content in advanced on Tracy&#39;s Blog | 享寫</description>
+		<generator>Hugo</generator>
+		<language>zh-tw</language>
+		
+		
+		
+			<copyright>&amp;copy; 2026 Tracy&#39;s Blog</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/projects/advanced/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>advanced</title>
+				<link>http://localhost:1313/projects/advanced/_index.ja/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/advanced/_index.ja/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>advanced</title>
+				<link>http://localhost:1313/projects/advanced/_index.zh-cn/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/advanced/_index.zh-cn/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Avanzada</title>
+				<link>http://localhost:1313/projects/advanced/_index.es/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/advanced/_index.es/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

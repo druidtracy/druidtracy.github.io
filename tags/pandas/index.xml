@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pandas on Tracy&#39;s Blog | 享寫</title>
+		<link>http://localhost:1313/tags/pandas/</link>
+		<description>Recent content in Pandas on Tracy&#39;s Blog | 享寫</description>
+		<generator>Hugo</generator>
+		<language>zh-tw</language>
+		
+		
+		
+			<copyright>&amp;copy; 2026 Tracy&#39;s Blog</copyright>
+		
+		
+			<lastBuildDate>Wed, 30 Sep 2026 00:41:56 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>找出章魚里</title>
+				<link>http://localhost:1313/projects/%E6%89%BE%E5%87%BA%E7%AB%A0%E9%AD%9A%E9%87%8C/taiwan_presidential_election_2024/</link>
+				<pubDate>Wed, 30 Sep 2026 00:41:56 +0800</pubDate>
+				<guid>http://localhost:1313/projects/%E6%89%BE%E5%87%BA%E7%AB%A0%E9%AD%9A%E9%87%8C/taiwan_presidential_election_2024/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
