@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>職涯 on Tracy&#39;s Blog | 享寫</title>
+		<link>https://druidtracy.github.io/tags/%E8%81%B7%E6%B6%AF/</link>
+		<description>Recent content in 職涯 on Tracy&#39;s Blog | 享寫</description>
+		<generator>Hugo</generator>
+		<language>zh-tw</language>
+		
+		
+		
+			<copyright>&amp;copy; 2026 Tracy&#39;s Blog</copyright>
+		
+		
+			<lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://druidtracy.github.io/tags/%E8%81%B7%E6%B6%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>資料框的轉置與關聯</title>
+				<link>https://druidtracy.github.io/python/melt_and_merge_dataframe/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/python/melt_and_merge_dataframe/</guid>
+				<description>所需模組: pandas</description>
+			</item>
+			<item>
+				<title>載入資料</title>
+				<link>https://druidtracy.github.io/python/import_file/</link>
+				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/python/import_file/</guid>
+				<description>所需模組: pandas</description>
+			</item>
+			<item>
+				<title>自架網站心得</title>
+				<link>https://druidtracy.github.io/blogs/some_thoughts_of_my_website/</link>
+				<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/blogs/some_thoughts_of_my_website/</guid>
+				<description>一開始只是覺得架網站很酷，後來發現這是一個紀錄和探索自己的旅程 :blush:</description>
+			</item>
+			<item>
+				<title>離職之後，我終於看懂了自己的思考模式</title>
+				<link>https://druidtracy.github.io/blogs/realize_sth_after_quit/realize_sth_after_quit/</link>
+				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/blogs/realize_sth_after_quit/realize_sth_after_quit/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

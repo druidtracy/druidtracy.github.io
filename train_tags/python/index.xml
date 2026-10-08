@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Python on Tracy&#39;s Blog | 享寫</title>
+		<link>https://druidtracy.github.io/train_tags/python/</link>
+		<description>Recent content in Python on Tracy&#39;s Blog | 享寫</description>
+		<generator>Hugo</generator>
+		<language>zh-tw</language>
+		
+		
+		
+			<copyright>&amp;copy; 2026 Tracy&#39;s Blog</copyright>
+		
+		
+			<lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://druidtracy.github.io/train_tags/python/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>資料框的轉置與關聯</title>
+				<link>https://druidtracy.github.io/python/melt_and_merge_dataframe/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/python/melt_and_merge_dataframe/</guid>
+				<description>所需模組: pandas</description>
+			</item>
+			<item>
+				<title>載入資料</title>
+				<link>https://druidtracy.github.io/python/import_file/</link>
+				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/python/import_file/</guid>
+				<description>所需模組: pandas</description>
+			</item>
+	</channel>
+</rss>

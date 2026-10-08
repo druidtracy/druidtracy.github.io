@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>網站維護筆記 on Tracy&#39;s Blog | 享寫</title>
+		<title>Tracy&#39;s Blog | 享寫</title>
 		<link>https://druidtracy.github.io/about_my_website/</link>
-		<description>Recent content in 網站維護筆記 on Tracy&#39;s Blog | 享寫</description>
+		<description>Recent content on Tracy&#39;s Blog | 享寫</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
 		
@@ -12,29 +12,15 @@
 			<copyright>&amp;copy; 2026 Tracy&#39;s Blog</copyright>
 		
 		
-			<lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://druidtracy.github.io/about_my_website/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>2026-10-03 維護筆記：參數調整 / 內容修正 / 發布流程</title>
-				<link>https://druidtracy.github.io/about_my_website/websitemaintain_20261003/</link>
-				<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://druidtracy.github.io/about_my_website/websitemaintain_20261003/</guid>
-				<description>今天做簡單的參數調整，還在研究markdown的樣式中&amp;hellip;</description>
-			</item>
-			<item>
-				<title>2026-10-02 維護筆記：Front Matter, favicon, logo</title>
-				<link>https://druidtracy.github.io/about_my_website/websitemaintain_20261002/</link>
-				<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://druidtracy.github.io/about_my_website/websitemaintain_20261002/</guid>
-				<description>現在可以在網站上看到悠虎的Q版頭像了！</description>
-			</item>
-			<item>
-				<title>Maintainance To-Do</title>
-				<link>https://druidtracy.github.io/about_my_website/websitemaintain_todo/</link>
-				<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://druidtracy.github.io/about_my_website/websitemaintain_todo/</guid>
-				<description>這裡放一些待辦事項，一樣一樣解決掉吧！</description>
+				<title>2026年9月維護紀錄</title>
+				<link>https://druidtracy.github.io/about_my_website/2026-09/</link>
+				<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/about_my_website/2026-09/</guid>
+				<description>2026年9月維護紀錄共1次</description>
 			</item>
 	</channel>
 </rss>
