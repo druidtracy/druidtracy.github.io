@@ -106,10 +106,12 @@
 	<meta property="og:type" content="article">
 		<meta property="article:section" content="hugo_congo">
 		<meta property="article:published_time" content="2026-10-02T00:00:00+00:00">
-		<meta property="article:modified_time" content="2026-10-02T00:00:00+00:00">
+		<meta property="article:modified_time" content="2026-10-10T00:00:00+00:00">
+		<meta property="og:image" content="https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/featured_hugo.png">
 
   
-	<meta name="twitter:card" content="summary">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/featured_hugo.png">
 	<meta name="twitter:title" content="Front Matter, Favcion, Logo 設定">
 	<meta name="twitter:description" content="現在可以在網站上看到悠虎的Q版頭像了！">
 
@@ -118,7 +120,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": "",
+    "articleSection": "Hugo",
     "name": "Front Matter, Favcion, Logo 設定",
     "headline": "Front Matter, Favcion, Logo 設定",
     
@@ -133,12 +135,12 @@
     "dateCreated": "2026-10-02T00:00:00\u002b00:00",
     "datePublished": "2026-10-02T00:00:00\u002b00:00",
     
-    "dateModified": "2026-10-02T00:00:00\u002b00:00",
+    "dateModified": "2026-10-10T00:00:00\u002b00:00",
     
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "127"
+    "wordCount": "171"
   }
   </script>
     
@@ -156,7 +158,7 @@
      {
        "@type": "ListItem",
        "item": "https://druidtracy.github.io/hugo_congo/",
-       "name": "",
+       "name": "Hugo",
        "position": 2
      },
      {
@@ -411,7 +413,7 @@
     <a
       class="dark:underline-neutral-600 decoration-neutral-300 hover:underline"
       href="https://druidtracy.github.io/hugo_congo/"
-      >hugo_congo</a
+      >Hugo</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -477,6 +479,70 @@
         </div>
       
       
+        <div class="prose">
+          
+          
+          
+          
+
+
+
+
+
+
+
+
+  
+    <picture
+      class="mb-6 rounded-md"
+      
+    >
+      
+      
+      
+      
+        <source
+          
+            srcset="https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/featured_hugo_hu_ce37ca5ccee7e18f.webp 330w,https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/featured_hugo_hu_5bc226285786fe5d.webp 660w
+            
+              
+                ,https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/featured_hugo_hu_739f020a37331cc0.webp 900w
+              
+            
+            
+              
+                ,https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/featured_hugo_hu_739f020a37331cc0.webp 900w
+              
+            "
+          
+          sizes="100vw"
+          type="image/webp"
+        />
+      
+      <img
+        width="900"
+        height="450"
+        class="mb-6 rounded-md"
+        
+        
+        
+          src="https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/featured_hugo_hu_2951de6522d5c5af.png" srcset="https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/featured_hugo_hu_5729de82e148abae.png 330w,https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/featured_hugo_hu_2951de6522d5c5af.png 660w
+          
+            ,https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/featured_hugo.png 900w
+          
+          
+            ,https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/featured_hugo.png 900w
+          "
+          sizes="100vw"
+        
+      />
+    </picture>
+  
+
+
+          
+        </div>
+      
     </header>
     <section class="prose mt-0 flex max-w-full flex-col dark:prose-invert lg:flex-row">
       
@@ -491,13 +557,15 @@
   <div class="border-s border-dotted border-neutral-300 py-2 ps-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li>
+    <li><a href="#1-建立各種page-或-section-的-front-matter-內容">1. 建立各種page 或 section 的 <strong>Front Matter</strong> 內容</a>
       <ul>
-        <li><a href="#1-建立各種page-或-section-的-front-matter-內容">1. 建立各種page 或 section 的 <strong>Front Matter</strong> 內容</a></li>
-        <li><a href="#3-加-favicon">3. 加 favicon</a></li>
-        <li><a href="#4-加-logo">4. 加 logo</a></li>
+        <li><a href="#--list-page-的-front-matter">- List page 的 Front Matter</a></li>
+        <li><a href="#--single-page-的-front-matter">- Single page 的 Front Matter</a></li>
+        <li></li>
       </ul>
     </li>
+    <li><a href="#2-加-favicon">2. 加 favicon</a></li>
+    <li><a href="#3-加-logo">3. 加 logo</a></li>
   </ul>
 </nav>
   </div>
@@ -508,27 +576,46 @@
       
       <div class="min-h-0 min-w-0 max-w-prose grow">
         <hr>
-<h3 id="1-建立各種page-或-section-的-front-matter-內容" class="relative group">1. 建立各種page 或 section 的 <strong>Front Matter</strong> 內容 <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#1-%e5%bb%ba%e7%ab%8b%e5%90%84%e7%a8%aepage-%e6%88%96-section-%e7%9a%84-front-matter-%e5%85%a7%e5%ae%b9" aria-label="定位點">#</a></span></h3><p>根據不同需求建立所需的 Front Matter 內容，可以幫助一個 Section 文章的格式一致化，例如：
-我的 Hugo 筆記區所設定的 Front Matter 如下：</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="nt">title</span><span class="o">:</span> <span class="s2">&#34;Front Matter, Favcion, Logo 設定&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nt">date</span><span class="o">:</span> <span class="nt">2026-10-02</span>
-</span></span><span class="line"><span class="cl"><span class="nt">lastmod</span><span class="o">:</span> <span class="nt">2026-10-02</span>
-</span></span><span class="line"><span class="cl"><span class="nt">draft</span><span class="o">:</span> <span class="nt">false</span>
-</span></span><span class="line"><span class="cl"><span class="nt">description</span><span class="o">:</span> <span class="s2">&#34;&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nt">summary</span><span class="o">:</span> <span class="s2">&#34;現在可以在網站上看到悠虎的Q版頭像了！&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nt">slug</span><span class="o">:</span> <span class="s2">&#34;set_front_matter_favicon_and_logo&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nt">train_tags</span><span class="o">:</span> <span class="o">[</span><span class="s2">&#34;hugo&#34;</span><span class="o">]</span>
-</span></span><span class="line"><span class="cl"><span class="nt">tags</span><span class="o">:</span> <span class="o">[]</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="nt">showReadingTime</span><span class="o">:</span> <span class="nt">true</span>
-</span></span><span class="line"><span class="cl"><span class="nt">showDate</span><span class="o">:</span> <span class="nt">false</span>
-</span></span><span class="line"><span class="cl"><span class="nt">showDateUpdated</span><span class="o">:</span> <span class="nt">true</span>
-</span></span><span class="line"><span class="cl"><span class="nt">showTaxonomies</span><span class="o">:</span> <span class="nt">true</span>
-</span></span><span class="line"><span class="cl"><span class="nt">showAuthor</span><span class="o">:</span> <span class="nt">true</span>
-</span></span><span class="line"><span class="cl"><span class="nt">showSummary</span><span class="o">:</span> <span class="nt">true</span>
-</span></span><span class="line"><span class="cl"><span class="nt">showEdit</span><span class="o">:</span> <span class="nt">false</span>
-</span></span></code></pre></div><hr>
-<h3 id="3-加-favicon" class="relative group">3. 加 favicon <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#3-%e5%8a%a0-favicon" aria-label="定位點">#</a></span></h3><ol>
+<h2 id="1-建立各種page-或-section-的-front-matter-內容" class="relative group">1. 建立各種page 或 section 的 <strong>Front Matter</strong> 內容 <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#1-%e5%bb%ba%e7%ab%8b%e5%90%84%e7%a8%aepage-%e6%88%96-section-%e7%9a%84-front-matter-%e5%85%a7%e5%ae%b9" aria-label="定位點">#</a></span></h2><p><strong>根據不同需求建立所需的 Front Matter 內容，可以幫助一個 Section 文章的格式一致化</strong>，</p>
+<p>例如：我的進修之路，有關 Hugo 筆記區所設定的 Front Matter 如下：</p>
+<h3 id="--list-page-的-front-matter" class="relative group">- List page 的 Front Matter <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#--list-page-%e7%9a%84-front-matter" aria-label="定位點">#</a></span></h3><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;Hugo&#34;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">description</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;&#34;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">cascade</span><span class="p">:</span><span class="w"> 
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">showReadingTime</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">showDate</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">showDateUpdated</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">showTaxonomies</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">showAuthor</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">showSummary</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">showEdit</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
+</span></span></span></code></pre></div><div class="flex rounded-md bg-primary-100 px-4 py-3 dark:bg-primary-900">
+  <span class="pe-3 text-primary-400">
+    <span class="icon relative inline-block px-1 align-text-bottom"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256s256-114.6 256-256S397.4 0 256 0zM256 128c17.67 0 32 14.33 32 32c0 17.67-14.33 32-32 32S224 177.7 224 160C224 142.3 238.3 128 256 128zM296 384h-80C202.8 384 192 373.3 192 360s10.75-24 24-24h16v-64H224c-13.25 0-24-10.75-24-24S210.8 224 224 224h32c13.25 0 24 10.75 24 24v88h16c13.25 0 24 10.75 24 24S309.3 384 296 384z"/></svg>
+</span>
+  </span>
+  <span class="dark:text-neutral-300"><strong>cascade: 下的參數，可以統一設定同一個Section下的所有文章</strong></span>
+</div>
+
+<p>因為 Hugo 的文章都是學習過程筆記，隨記隨更新的性質，所以這一區的文章只保留文章長度的資訊，以及文章摘要，其它參數都省略。</p>
+<h3 id="--single-page-的-front-matter" class="relative group">- Single page 的 Front Matter <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#--single-page-%e7%9a%84-front-matter" aria-label="定位點">#</a></span></h3><p>在 List page 的 cascade 統一設定好 Section 的參數後，那這個 Section 中的每一篇文章中所設定的 Front Matter 就只需要保留文章設定就好，如下：</p>
+<h3 id="" class="relative group"> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#" aria-label="定位點">#</a></span></h3><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;Front Matter, Favcion, Logo 設定&#34;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">date</span><span class="p">:</span><span class="w"> </span><span class="ld">2026-10-02</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">lastmod</span><span class="p">:</span><span class="w"> </span><span class="ld">2026-10-02</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">draft</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">description</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;&#34;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">summary</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;現在可以在網站上看到悠虎的Q版頭像了！&#34;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">slug</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;set_front_matter_favicon_and_logo&#34;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">train_tags</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&#34;hugo&#34;</span><span class="p">]</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">tags</span><span class="p">:</span><span class="w"> </span><span class="p">[]</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
+</span></span></span></code></pre></div><p><strong>我會根據每一區的文章性質，設定適合的參數，那一區的文章格式也會有一個統一的架構格式，不但方便查找/閱讀，也讓網頁變得美觀。</strong> 😄</p>
+<p>不過&hellip;到目前為止還是覺得文章縮圖有很強大的版面效果，只是要為每篇文章弄一張圖，又增加了寫文的門檻啊~ 😢 還是開心就好！</p>
+<hr>
+<h2 id="2-加-favicon" class="relative group">2. 加 favicon <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#2-%e5%8a%a0-favicon" aria-label="定位點">#</a></span></h2><ol>
 <li>準備一個正方形的png檔，檔名改為 favicon.png ，放在 assets/img/ 資料夾
 ，副檔名一定要是.png。</li>
 <li>在 layouts/_partials/ 新增 favicons.html ，內容如下：</li>
@@ -537,7 +624,7 @@
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">link</span> <span class="na">rel</span><span class="o">=</span><span class="s">&#34;icon&#34;</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;image/png&#34;</span> <span class="na">href</span><span class="o">=</span><span class="s">&#34;{{ $favicon.RelPermalink }}&#34;</span><span class="p">&gt;</span>
 </span></span></code></pre></div><hr>
-<h3 id="4-加-logo" class="relative group">4. 加 logo <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#4-%e5%8a%a0-logo" aria-label="定位點">#</a></span></h3><ol>
+<h2 id="3-加-logo" class="relative group">3. 加 logo <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#3-%e5%8a%a0-logo" aria-label="定位點">#</a></span></h2><ol>
 <li>準備兩張圖片
 <ul>
 <li>一張是給 Light mode 用：通常用淺底色，檔名取為：logo.png</li>
@@ -553,8 +640,7 @@ header 的 logo 和 logoDark 改為相對應的圖片名稱。</li>
 </span></span><span class="line"><span class="cl"><span class="nx">logo</span> <span class="p">=</span> <span class="s2">&#34;img/logo.png&#34;</span>
 </span></span><span class="line"><span class="cl"><span class="nx">logoDark</span> <span class="p">=</span> <span class="s2">&#34;img/logo-dark.png&#34;</span>
 </span></span><span class="line"><span class="cl"><span class="nx">showTitle</span> <span class="p">=</span> <span class="kc">true</span>
-</span></span></code></pre></div><hr>
-
+</span></span></code></pre></div>
       </div>
     </section>
     <footer class="max-w-prose pt-8 print:hidden">
