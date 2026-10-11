@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Draft on Tracy&#39;s Blog | 享寫</title>
+		<link>http://localhost:1313/train_tags/draft/</link>
+		<description>Recent content in Draft on Tracy&#39;s Blog | 享寫</description>
+		<generator>Hugo</generator>
+		<language>zh-tw</language>
+		
+		
+		
+			<copyright>&amp;copy; 2026 Tracy&#39;s Blog</copyright>
+		
+		
+			<lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/train_tags/draft/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>只在預覽網站時看得到草稿標籤</title>
+				<link>http://localhost:1313/hugo_congo/build_drafts/</link>
+				<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/hugo_congo/build_drafts/</guid>
+				<description>可以清楚地看到哪些文章還沒寫完，真的好用！</description>
+			</item>
+	</channel>
+</rss>
