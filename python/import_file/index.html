@@ -142,7 +142,7 @@
     "keywords": ["學習","職涯"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "70"
+    "wordCount": "74"
   }
   </script>
     
@@ -533,10 +533,11 @@
         <p>需要分析的資料來源有很多種，以下整理幾個比較常見的：</p>
 <p><strong>CSV、Excel及SQL</strong></p>
 <div class="lead !mb-9 text-xl">
-  所需模組: pandas
+  所需模組: pandas, sqlite3
 </div>
 
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">sqlite</span>
 </span></span></code></pre></div><h3 id="載入csv檔" class="relative group">載入csv檔 <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#%e8%bc%89%e5%85%a5csv%e6%aa%94" aria-label="定位點">#</a></span></h3><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">import_csv_file</span><span class="p">():</span>
 </span></span><span class="line"><span class="cl">    <span class="n">path_file</span> <span class="o">=</span> <span class="s2">&#34;path/filename.csv&#34;</span>
 </span></span><span class="line"><span class="cl">    <span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">path_file</span><span class="p">)</span>
@@ -568,7 +569,8 @@
 </span></span></span><span class="line"><span class="cl"><span class="s2">    SELECT *
 </span></span></span><span class="line"><span class="cl"><span class="s2">        FROM tablename;
 </span></span></span><span class="line"><span class="cl"><span class="s2">    &#34;&#34;&#34;</span>
-</span></span><span class="line"><span class="cl">    <span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_sql</span><span class="p">(</span><span class="n">query</span><span class="p">,</span> <span class="n">connection</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_sql</span><span class="p">(</span><span class="n">query</span><span class="p">,</span> <span class="n">con</span><span class="o">=</span><span class="n">connection</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">connection</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
 </span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">df</span>
 </span></span></code></pre></div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">sql_file</span> <span class="o">=</span> <span class="n">import_sql_file</span><span class="p">()</span>
 </span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">sql_file</span><span class="p">)</span>
