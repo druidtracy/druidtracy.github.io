@@ -16,7 +16,7 @@
 		
 			<atom:link href="http://localhost:1313/train_tags/draft/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>只在預覽網站時看得到草稿標籤</title>
+				<title>如何只在預覽網站時看得到草稿標籤?</title>
 				<link>http://localhost:1313/hugo_congo/build_drafts/</link>
 				<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/hugo_congo/build_drafts/</guid>

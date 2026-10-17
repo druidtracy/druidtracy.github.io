@@ -12,9 +12,23 @@
 			<copyright>&amp;copy; 2026 Tracy&#39;s Blog</copyright>
 		
 		
-			<lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://druidtracy.github.io/train_tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Pandas</title>
+				<link>https://druidtracy.github.io/train_tags/pandas/</link>
+				<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/train_tags/pandas/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Python</title>
+				<link>https://druidtracy.github.io/train_tags/python/</link>
+				<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/train_tags/python/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Cover</title>
 				<link>https://druidtracy.github.io/train_tags/cover/</link>
@@ -34,20 +48,6 @@
 				<link>https://druidtracy.github.io/train_tags/thumbnail/</link>
 				<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>https://druidtracy.github.io/train_tags/thumbnail/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Pandas</title>
-				<link>https://druidtracy.github.io/train_tags/pandas/</link>
-				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://druidtracy.github.io/train_tags/pandas/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Python</title>
-				<link>https://druidtracy.github.io/train_tags/python/</link>
-				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://druidtracy.github.io/train_tags/python/</guid>
 				<description></description>
 			</item>
 			<item>
