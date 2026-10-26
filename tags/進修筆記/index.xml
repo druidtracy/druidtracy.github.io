@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>進修筆記 on Tracy&#39;s Blog | 享寫</title>
+		<link>https://druidtracy.github.io/tags/%E9%80%B2%E4%BF%AE%E7%AD%86%E8%A8%98/</link>
+		<description>Recent content in 進修筆記 on Tracy&#39;s Blog | 享寫</description>
+		<generator>Hugo</generator>
+		<language>zh-tw</language>
+		
+		
+		
+			<copyright>&amp;copy; 2026 Tracy&#39;s Blog</copyright>
+		
+		
+			<lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://druidtracy.github.io/tags/%E9%80%B2%E4%BF%AE%E7%AD%86%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>資料框的轉置: 長寬格式轉換</title>
+				<link>https://druidtracy.github.io/python/melt_and_merge_dataframe/</link>
+				<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/python/melt_and_merge_dataframe/</guid>
+				<description>所需模組: pandas</description>
+			</item>
+			<item>
+				<title>載入資料</title>
+				<link>https://druidtracy.github.io/python/import_file/</link>
+				<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/python/import_file/</guid>
+				<description>所需模組: pandas</description>
+			</item>
+			<item>
+				<title>Hugo 的文章列表縮圖、文章內封面圖的設定</title>
+				<link>https://druidtracy.github.io/hugo_congo/leaf_and_branch_page/</link>
+				<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/hugo_congo/leaf_and_branch_page/</guid>
+				<description>縮圖可以讓版面生動許多！</description>
+			</item>
+			<item>
+				<title>shortcodes: badge &amp; button 的用法</title>
+				<link>https://druidtracy.github.io/hugo_congo/shortcodes_badge_button/</link>
+				<pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/hugo_congo/shortcodes_badge_button/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>我的 GitHub Pages 發布流程的小習慣</title>
+				<link>https://druidtracy.github.io/hugo_congo/workflow_of_publish/</link>
+				<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/hugo_congo/workflow_of_publish/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Front Matter, Favcion, Logo 設定</title>
+				<link>https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/</link>
+				<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/hugo_congo/set_front_matter_favicon_and_logo/</guid>
+				<description>現在可以在網站上看到悠虎的Q版頭像了！</description>
+			</item>
+	</channel>
+</rss>
