@@ -16,10 +16,24 @@
 		
 			<atom:link href="https://druidtracy.github.io/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Village-level Voting Pattern Similarity Anlysis</title>
+				<link>https://druidtracy.github.io/projects/village-level_voting_pattern_similarity_analysis/</link>
+				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/projects/village-level_voting_pattern_similarity_analysis/</guid>
+				<description>利用Pandas與SQlite建立資料庫，再用Gradio製作成品，部署到Hugging Face Space上</description>
+			</item>
+			<item>
 				<title>資料框的轉置: 長寬格式轉換</title>
 				<link>https://druidtracy.github.io/python/melt_and_merge_dataframe/</link>
 				<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>https://druidtracy.github.io/python/melt_and_merge_dataframe/</guid>
+				<description>所需模組: pandas</description>
+			</item>
+			<item>
+				<title>載入資料</title>
+				<link>https://druidtracy.github.io/python/import_file/</link>
+				<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://druidtracy.github.io/python/import_file/</guid>
 				<description>所需模組: pandas</description>
 			</item>
 			<item>
@@ -28,13 +42,6 @@
 				<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>https://druidtracy.github.io/hugo_congo/leaf_and_branch_page/</guid>
 				<description>縮圖可以讓版面生動許多！</description>
-			</item>
-			<item>
-				<title>載入資料</title>
-				<link>https://druidtracy.github.io/python/import_file/</link>
-				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://druidtracy.github.io/python/import_file/</guid>
-				<description>所需模組: pandas</description>
 			</item>
 			<item>
 				<title>shortcodes: badge &amp; button 的用法</title>
@@ -70,13 +77,6 @@
 				<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>https://druidtracy.github.io/about_my_website/2026-09/</guid>
 				<description>2026年9月維護紀錄共1則</description>
-			</item>
-			<item>
-				<title>Village-level Voting Pattern Similarity Anlysis</title>
-				<link>https://druidtracy.github.io/projects/village-level_voting_pattern_similarity_analysis/</link>
-				<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://druidtracy.github.io/projects/village-level_voting_pattern_similarity_analysis/</guid>
-				<description>利用Pandas與SQlite建立資料庫，再用Gradio製作成品，部署到Hugging Face Space上</description>
 			</item>
 			<item>
 				<title>Resume</title>

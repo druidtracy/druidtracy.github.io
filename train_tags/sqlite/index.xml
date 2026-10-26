@@ -18,7 +18,7 @@
 			<item>
 				<title>Village-level Voting Pattern Similarity Anlysis</title>
 				<link>https://druidtracy.github.io/projects/village-level_voting_pattern_similarity_analysis/</link>
-				<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>https://druidtracy.github.io/projects/village-level_voting_pattern_similarity_analysis/</guid>
 				<description>利用Pandas與SQlite建立資料庫，再用Gradio製作成品，部署到Hugging Face Space上</description>
 			</item>
